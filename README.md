@@ -4,9 +4,9 @@
 
 ## Содержание
 
-- [Домашние задания](./course2/homeworks/)
-- [Практики](./course2/practices/)
-- [Проекты](./course2/projects/)
+- [Домашние задания](./course-2/homeworks/)
+- [Практики](./course-2/practices/)
+- [Проекты](./course-2/projects/)
 
 ## Как использовать
 
